@@ -20,11 +20,26 @@ O site corporativo foi desenvolvido utilizando HTML, CSS e JavaScript, com o Fir
 - Interação com Candidatos: As empresas visualizam candidatos que mostraram interesse através do aplicativo. Esse recurso possibilita à empresa avaliar perfis, fornecer feedback e decidir sobre entrevistas ou contratações futuras.
 
 ## Como usar
-Para iniciar o aplicativo, primeiro é preciso criar um projeto no Firebase, o que é bastante simples. Basta fornecer um nome para o projeto, aceitar os termos de uso e coletar as informações do seu banco de dados em "Configurações do projeto". Recomendo este vídeo tutorial para orientações detalhadas https://youtu.be/yBJD4ply2k0?si=tmsY9H2SnFmCJJnD.
-Para iniciar o aplicativo primeiramente é preciso criar um projeto no firebase, que é bem tranquilo, só por nome do projeto, aceitar termos de uso e coletar as informações do seu banco de dadoos em "Configurações do projeto" recomendo este video: https://youtu.be/yBJD4ply2k0?si=tmsY9H2SnFmCJJnD
-após isso o proximo passo é usar os seguintes comandos: npm install -g expo-cli para criar facilitar na hora de emular seu projeto e otimizar outras coisas como ja instalar algumas bibliotecas e criar arquivos que vão facilitar na hora de compilar o codigo. Após instalado voce vai precisar usar o expo init NomeDoProjeto para finalmente criar seu projeto após dar um cd NomeDoProjeto só continuar com o npm install para baixar todas bibliotecas do json e com expo start e iniciar o projeto.
+Para iniciar o aplicativo, primeiro é preciso criar um projeto no Firebase https://console.firebase.google.com/u/0/?hl=pt, o que é bastante simples. Basta fornecer um nome para o projeto, aceitar os termos de uso e coletar as informações do seu banco de dados em "Configurações do projeto". Recomendo este vídeo tutorial para orientações detalhadas https://youtu.be/yBJD4ply2k0?si=tmsY9H2SnFmCJJnD.<p>
+Após isso, o próximo passo é usar os seguintes comandos:
+- npm install -g expo-cli para facilitar na hora de emular seu projeto e otimizar outras coisas, como já instalar algumas bibliotecas e criar arquivos que vão facilitar na hora de compilar o código.
+- expo init NomeDoProjeto para finalmente criar seu projeto.
+- cd NomeDoProjeto para entrar na pasta do seu projeto.
+- npm install para baixar todas as bibliotecas do JSON.
+- expo start para iniciar o projeto.
+Eu utilizei o app Expo Go para emular o projeto no meu Android https://play.google.com/store/apps/details?id=host.exp.exponent.
 
 ## **Considerações Finais**
 O projeto Arskhan foi desafiador, proporcionando aprendizados significativos tanto em competências técnicas quanto em soft skills. A resolução de problemas técnicos, pesquisa intensiva e a superação de desafios contribuíram para o crescimento das competências técnicas. As soft skills, como trabalho em equipe, divisão de tarefas, compreensão da lógica de banco de dados e design, foram aprimoradas ao longo do desenvolvimento.
 
 Arskhan representa não apenas um aplicativo, mas uma solução que aproxima empresas e candidatos de maneira simples e eficiente.
+
+## **Referencias**
+### **Firebase**
+- https://firebase.google.com/docs?hl=pt-br
+- https://youtu.be/7ol2DgfzvC4?si=googNGfs3AXSZG1z
+### **Expo**
+- https://docs.expo.dev/
+- https://youtu.be/ql4J6SpLXZA?si=kFVLMcOMVA9cdX7w
+### **React Native**
+- https://reactnative.dev/docs/getting-started
