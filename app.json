@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "TINDER",
+    "slug": "tcc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "config": {
+        "googleMobileAdsAppId": "your-admob-app-id"
+      },
+      "jsEngine": "hermes"
+    },
+    "web": {}
+  }
+}

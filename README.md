@@ -8,14 +8,14 @@ O aplicativo Arskhan foi desenvolvido utilizando React Native e Expo, aproveitan
 
 - Login e Cadastro: Implementação de um sistema de autenticação que permite aos usuários criar contas e realizar o login.
 <div style="display: flex;">
-  <img src="./Images/Login.jpg" width="170px"/>
-  <img src="./Images/Curriculo.jpg" width="170px"/>
+  <img src="./docs/Images/Login.jpg" width="170px"/>
+  <img src="./docs/Images/Curriculo.jpg" width="170px"/>
 </div>
 
 - Procura de Empresas: A principal funcionalidade do aplicativo é a busca de empresas. Elas são apresentadas aos usuários por meio de uma imagem do ambiente (interno ou externo) juntamente com seu nome. Botões "Saiba Mais", "Like" e "Próximo" proporcionam uma interação fácil, rápida e intuitiva.
  <div style="display:flex;"> 
-  <img src="./Images/Empresa.jpg" width="170px"/>
-  <img src="./Images/EmpresaDecription.jpg" width="170px"/>
+  <img src="./docs/Images/Empresa.jpg" width="170px"/>
+  <img src="./docs/Images/EmpresaDecription.jpg" width="170px"/>
  </div>
 
 - Detalhes da Empresa: Ao clicar em "Saiba Mais", o aplicativo recupera informações da empresa do Firebase, fornecendo uma visão mais detalhada sobre a vaga.
